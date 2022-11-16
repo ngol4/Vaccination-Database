@@ -1,0 +1,44 @@
+social security number,name,date of birth,phone,role,vaccination status,hospital
+19710226-109L,Cristopher Tillman,1971-02-26,040-115-0704,nurse,1,Messukeskus
+19720212-5327,Brielle Botsford,1972-02-12,040-416-5419,nurse,1,Messukeskus
+19740308-7818,Elwyn Heathcote,1974-03-08,040-077-0520,nurse,1,Messukeskus
+19740516-4369,Jeramy Feest,1974-05-16,041-284-2831,nurse,1,Messukeskus
+19740731-5488,Rosalia Simonis,1974-07-31,041-608-6703,doctor,1,Messukeskus
+19750726-4531,Shaylee Kris,1975-07-26,040-018-1740,doctor,1,Messukeskus
+19751212-3265,Hilbert Purdy,1975-12-12,040-154-3703,doctor,1,Messukeskus
+19760102-8374,Elnora Greenholt,1976-01-02,050-930-9351,doctor,1,Messukeskus
+19760420-5220,Darryl Douglas,1976-04-20,040-363-8047,doctor,0,Messukeskus
+19761205-4219,Richmond Kuvalis,1976-12-05,040-722-7332,nurse,1,Malmi
+19781030-815P,Candido Anderson,1978-10-30,040-800-8852,nurse,1,Malmi
+19790212-2618,Aimee Bruen,1979-02-12,050-867-1567,nurse,1,Malmi
+19790817-5492,Keshawn DuBuque,1979-08-17,050-830-6384,nurse,1,Malmi
+19810923-245N,Ollie Becker,1981-09-23,040-321-9861,nurse,1,Malmi
+19860607-9671,Mario Wuckert,1986-06-07,040-739-4876,doctor,1,Malmi
+19871016-6825,Austen Simonis,1987-10-16,050-688-1407,doctor,1,Malmi
+19771112-4048,Greg Schuppe,1977-11-12,044-508-7140,nurse,1,Tapiola Health Center
+19910122-1693,Ashley Konopelski,1991-01-22,041-898-5555,nurse,1,Tapiola Health Center
+19920802-4854,Kaden Tromp,1992-08-02,044-624-1591,nurse,1,Tapiola Health Center
+19900103-6172,Philip Smitham,1990-01-03,044-086-4206,nurse,1,Tapiola Health Center
+19930315-7195,Jeromy McKenzie,1993-03-15,040-135-4985,nurse,1,Tapiola Health Center
+19740919-7140,Deon Hoppe,1974-09-19,040-399-1121,nurse,0,Tapiola Health Center
+19940615-4448,Jordy Hilpert,1994-06-15,044-506-1982,doctor,1,Tapiola Health Center
+19920720-966R,Florine Leannon,1992-07-20,044-525-4083,doctor,1,Tapiola Health Center
+19831020-4745,Madisyn Shanahan,1983-10-20,044-646-8740,doctor,1,Tapiola Health Center
+19930608-7263,Autumn Abshire,1993-06-08,050-116-0560,nurse,1,Iso Omena Vaccination Point
+19701208-3270,Blanca Gaylord,1970-12-08,050-833-6807,nurse,1,Iso Omena Vaccination Point
+19820721-424H,Hiram Nicolas,1982-07-21,050-904-1622,nurse,1,Iso Omena Vaccination Point
+19731007-1310,Itzel Ernser,1973-10-07,050-354-1907,nurse,1,Iso Omena Vaccination Point
+19920211-1565,Rafaela Jerde,1992-02-11,040-860-5999,nurse,1,Iso Omena Vaccination Point
+19571227-3064,Norwood Murphy,1957-12-27,044-488-4064,nurse,0,Iso Omena Vaccination Point
+19680115-6662,Ned Bergnaum,1968-01-15,040-262-4581,nurse,1,Iso Omena Vaccination Point
+19731009-8366,Rosie Hansen,1973-10-09,050-670-4220,doctor,1,Iso Omena Vaccination Point
+19900513-9211,Monte Raynor,1990-05-13,040-114-9158,doctor,1,Iso Omena Vaccination Point
+19800310-4996,Vesta Considine,1980-03-10,044-022-9671,nurse,1,Sanomala Vaccination Point
+19630812-6581,Jazlyn Schneider,1963-08-12,040-868-2528,nurse,1,Sanomala Vaccination Point
+19771003-5988,Samir Hills,1977-10-03,040-093-0059,nurse,1,Sanomala Vaccination Point
+19660601-1051,Kelvin Hamill,1966-06-01,040-499-1574,doctor,1,Sanomala Vaccination Point
+19880817-8027,Haylie Wintheiser,1988-08-17,050-448-8894,nurse,1,Myyrmäki Energia Areena
+19820218-5928,Elena Bartell,1982-02-18,041-938-9451,nurse,1,Myyrmäki Energia Areena
+19720223-1761,Alfreda Champlin,1972-02-23,041-631-1851,nurse,1,Myyrmäki Energia Areena
+19700204-9152,Rod Upton,1970-02-04,050-590-9802,doctor,1,Myyrmäki Energia Areena
+19610330-6066,Nadia Jacobson,1961-03-30,041-144-8822,doctor,1,Myyrmäki Energia Areena

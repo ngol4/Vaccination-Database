@@ -1,0 +1,26 @@
+name,criticality
+headache,0
+diarrhea,0
+joint pain,0
+muscle ache,0
+nausea,0
+fatigue,0
+chills,0
+fever,0
+high fever,0
+inflammation near injection,0
+itchiness near injection,0
+warmth near injection,0
+pain near injection,0
+feelings of illness,0
+lymfadenopathy,0
+vomiting,0
+anaphylaxia,1
+shortness of breath,1
+chest pain,1
+leg swelling,1
+prologned abdominal pain,1
+sereve or prolonged headache,1
+blurring of vision,1
+hematomas,1
+bluemarks or petechias (not near injection),1
